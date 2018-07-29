@@ -1,0 +1,1 @@
+This set of tutorial is based on "R Cookbook" (2011) by Paul Teetor, published by O'Reilly.
